@@ -1,2 +1,2 @@
 # Useful Scripts
-Scripts prácticos para tareas utiles :)
+Scripts prácticos para tareas utiles
